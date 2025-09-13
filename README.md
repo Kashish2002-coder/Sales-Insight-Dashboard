@@ -18,11 +18,11 @@ The dashboard was built using the following technologies:
 
 Source: Internal company sales and customer databases.
 Data Structure:  
-Sales Data: Contains transactional records by region, customer, and product.  
-Revenue Data: Tracks total revenue by market and over time.  
-Customer Data: Includes customer-specific details, contributing to the ranking of top customers.
-Time Range: Monthly and yearly data from 2017 to 2020.
-Key Fields: Region, customer ID, sales quantity, revenue, time period.
+- Sales Data: Contains transactional records by region, customer, and product.  
+- Revenue Data: Tracks total revenue by market and over time.  
+- Customer Data: Includes customer-specific details, contributing to the ranking of top customers.
+- Time Range: Monthly and yearly data from 2017 to 2020.
+- Key Fields: Region, customer ID, sales quantity, revenue, time period.
 
 ✨ Features / Highlights
 
@@ -31,17 +31,17 @@ Sales teams and management often lack a centralized view to understand how diffe
  
  🎯 Goal of the Dashboard  
 
-Provide a visually engaging way to monitor revenue and sales across regions.  
-Enable deeper customer and market analysis to support sales growth.  
-Assist in forecasting trends and identifying areas for strategic investment.
+- Provide a visually engaging way to monitor revenue and sales across regions.  
+- Enable deeper customer and market analysis to support sales growth.  
+- Assist in forecasting trends and identifying areas for strategic investment.
 
 🔑 Walkthrough of Key Visuals  
 
-Total Revenue & Sales Quantity: Offers a snapshot of business performance at a glance.  
-Revenue by Market: Highlights top-performing regions like Delhi NCR and Mumbai.  
-Sales Quantity by Market: Shows percentage contribution to help prioritize efforts.  
-Revenue Trend Over Time: Allows users to spot patterns and fluctuations.  
-Top 5 Customers: Displays customers with the highest revenue, helping focus on customer relationships.
+- Total Revenue & Sales Quantity: Offers a snapshot of business performance at a glance.  
+- Revenue by Market: Highlights top-performing regions like Delhi NCR and Mumbai.  
+- Sales Quantity by Market: Shows percentage contribution to help prioritize efforts.  
+- Revenue Trend Over Time: Allows users to spot patterns and fluctuations.  
+- Top 5 Customers: Displays customers with the highest revenue, helping focus on customer relationships.
 
 📊 Business Impact & Insights  
 - Improved Decision-Making: Enables sales teams to focus on high-revenue markets.  
