@@ -8,11 +8,11 @@ The Sales Insight Dashboard is a Power BI report built to monitor revenue trends
 💻 Tech Stack
 
 The dashboard was built using the following technologies:
-📊 Power BI Desktop – Main platform for creating interactive reports and dashboards.
-📂 Power Query – Used for data cleaning and transformation.
-🧠 DAX (Data Analysis Expressions) – Used for calculated measures and dynamic filtering.
-🗄 SQL– Data extraction and querying from structured databases.
-📁 File Formats – `.pbix` for Power BI files and `.sql` for database queries.
+- Power BI Desktop – Main platform for creating interactive reports and dashboards.
+- Power Query – Used for data cleaning and transformation.
+- DAX (Data Analysis Expressions) – Used for calculated measures and dynamic filtering.
+- SQL– Data extraction and querying from structured databases.
+- File Formats – `.pbix` for Power BI files and `.sql` for database queries.
 
 📂 Data Source
 
