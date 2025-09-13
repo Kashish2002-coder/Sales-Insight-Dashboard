@@ -24,7 +24,7 @@ Data Structure:
 - Time Range: Monthly and yearly data from 2017 to 2020.
 - Key Fields: Region, customer ID, sales quantity, revenue, time period.
 
-✨ Features / Highlights
+✨ Features
 
 📈 Business Problem  
 Sales teams and management often lack a centralized view to understand how different regions and customers contribute to overall revenue. Without actionable insights, it becomes difficult to plan, forecast, or engage customers effectively.
@@ -35,7 +35,7 @@ Sales teams and management often lack a centralized view to understand how diffe
 - Enable deeper customer and market analysis to support sales growth.  
 - Assist in forecasting trends and identifying areas for strategic investment.
 
-🔑 Walkthrough of Key Visuals  
+🔑 Key Visuals  
 
 - Total Revenue & Sales Quantity: Offers a snapshot of business performance at a glance.  
 - Revenue by Market: Highlights top-performing regions like Delhi NCR and Mumbai.  
