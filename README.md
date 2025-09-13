@@ -44,5 +44,5 @@ Top 5 Customers: Displays customers with the highest revenue, helping focus on c
 - Operational Efficiency: Assists in identifying where to allocate resources for expansion.
 
 📸 Screenshot of Demo
-![Sales Insight Dashboard](link-to-your-image.png)
+Sales Insight Dashboard(Snapshot of the Dashboard.png)
 A preview of the dashboard showcasing revenue by region, trends over time, and customer insights.
